@@ -1,0 +1,36 @@
+section
+{
+    width: 4px;
+    height: 4px;
+    background-color: gray;
+}
+
+section h2{
+    display: none;
+
+}
+.col-md-4
+{
+    display: none;
+}
+.item img{
+
+    border-radius: 15px;
+}
+.w-25
+{
+    padding: 5px;
+    cursor: pointer;
+}
+.w-100
+{
+    border-radius: 15px;
+
+}
+.test
+{
+
+    width: 400px;
+    height: 400px;
+    background-color: gray;
+}
